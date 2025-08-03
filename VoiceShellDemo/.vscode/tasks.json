@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build VoiceShellDemo",
+      "type": "shell",
+      "command": "./gradlew build",
+      "group": "build",
+      "problemMatcher": ["$gradle"],
+      "options": {
+        "cwd": "."
+      }
+    },
+    {
+      "label": "Run VoiceShellDemo",
+      "type": "shell",
+      "command": "./gradlew installDebug",
+      "group": "test",
+      "problemMatcher": ["$gradle"],
+      "options": {
+        "cwd": "."
+      }
+    }
+  ]
+}

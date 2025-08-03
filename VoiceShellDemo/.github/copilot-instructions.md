@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a full-featured Android Studio app in Kotlin named "VoiceShellDemo". It delivers a voice-only mobile shell with accessibility for elderly, blind, and low-literacy users. Use MVVM, Jetpack Compose, Hilt, Coroutines, ML Kit/TensorFlow Lite, Google Speech APIs, secure storage, AccessibilityService, guided onboarding, error-tolerant parsing, customizable TTS, offline speech models, WCAG 2.1 compliance, and a ride-booking plugin. All generated code should follow best practices for accessibility, security, and multilingual support.
